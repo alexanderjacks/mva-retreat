@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  title: 'MVA Emerging Leaders Retreat 2019', // Required
+  author: 'Minority Veterans of America', // Required
+  description: 'MVA Emerging Leaders Retreat 2019',
+  primaryColor: '#f15d4e', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'http://http://minorityvets.org/',
+    github: 'https://github.com/alexanderjacks/retreat2',
+    twitter: 'https://twitter.com/minorityvets',
+    linkedin: 'https://www.linkedin.com/company/minorityvets/',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: '',
+  siteUrl: 'https://mvaelr.netlify.com/',
 };
