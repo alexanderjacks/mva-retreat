@@ -12,6 +12,6 @@ module.exports = {
     twitter: 'https://twitter.com/minorityvets',
     linkedin: 'https://www.linkedin.com/company/minorityvets/',
   },
-  pathPrefix: '',
+  pathPrefix: 'mvaelr',
   siteUrl: 'https://mvaelr.netlify.com/',
 };
