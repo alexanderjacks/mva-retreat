@@ -1,12 +1,51 @@
 ---
-title: My Second Post!
+title: Travel Guide
 date: "2018-06-29"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. 
+## Lodging
+AirBnB<br>
+Spring Hill Suites Downtown
 
-Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+## Transportation
+**Main Airport:** Seattle-Tacoma International Airport (SEATAC)<br>
+**Rail:** King Street Station (Amtrak)
+
+## Getting Around Seattle
+Seattle has some of the best public transportation in the United States. You can purchase daily passes for unlimited use at multiple locations throughout Seattle and at the SEATAC airport.  Visit King County Metro to learn more about how to use and plan a trip.
+
+> Uber and Lyft are easily accessible throughout the city but can become expensive during commuting hours in the morning and evening. During rush hours, public transportation is the best option as there are dedicated bus lanes and the light rail is underground in the city.
 
 ![Train Tracks](./traintrack.jpg)
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis.
+### [Bus Guide](https://kingcounty.gov/depts/transportation/metro/travel-options/bus.aspx)
+
+**( Bus stops near REI Flagship Store** with bus lines ) <br>
+
+**Eastlake & Stewart**
+578
+590
+592
+594
+595
+
+**Stewart St & Yale Ave N**
+216
+218
+219
+252
+255
+257
+268
+304
+311
+355
+545
+590
+592
+594
+595
+
+### [Link Light Rail Guide](https://kingcounty.gov/depts/transportation/metro/travel-options/rail.aspx)
+
+### [South Lake Union Streetcar Guide](https://seattlestreetcar.org/how-to-ride/south-lake-union-line/)

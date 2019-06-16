@@ -1,24 +1,116 @@
 ---
-title: Hello World
+title: Proposed Schedule
 date: "2018-06-30"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. 
+	Day 1
+	Wednesday, August 21st, 2019
 
-<!-- end -->
+	Start time - 12:00 pm 
+	Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
 
-Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis. Proin in tellus eu nisi dictum posuere eu id felis. Donec eget mi sit amet neque efficitur suscipit ut ut neque. Vivamus egestas, augue vitae vestibulum feugiat, lorem elit lobortis nulla, eget ornare arcu ipsum ac lacus. Proin a suscipit ligula, non facilisis nibh. Nunc et eros magna.
+**12:00 p.m.**			Kickoff
+***
+****12:00** - **12:30 p.m.** 		Welcome Session
 
->Aenean quis nisi eros. Praesent a libero et ante sagittis dictum eget id ipsum. Duis sit amet bibendum justo. Morbi faucibus vehicula bibendum. Praesent ornare hendrerit commodo. Praesent sit amet nisi mauris. Aenean maximus pharetra lacinia. Praesent efficitur erat id dolor laoreet rhoncus. Cras eu efficitur arcu. Nunc pretium, nunc sit amet rutrum molestie, arcu nisi tempus ligula, eu dapibus leo tortor in quam.
+Title: Welcome
+Facilitator: 
 
-Vivamus viverra id ipsum nec hendrerit. Fusce mollis enim et ultricies varius. Nam at dictum augue, id dictum augue. Fusce laoreet purus id iaculis cursus. Donec non velit est. Integer pellentesque viverra sapien, id rhoncus ipsum dictum ac. Aliquam vel maximus tortor, vitae interdum turpis. Etiam egestas elementum massa, id dictum magna suscipit vel. Curabitur mi tellus, pharetra eget nisi vitae, blandit vulputate nibh. Aenean tincidunt purus eu feugiat pulvinar. Maecenas quis laoreet lorem, a molestie urna. Cras iaculis justo elit, nec venenatis ante sollicitudin a. Cras eu pellentesque arcu, sit amet auctor felis.
 
-```javascript
-$(document).ready(function() {
-    console.log('Welcome!');
-})
-```
+***
+**12:45 - 1:45 p.m.** 		Communication Between Individuals
 
-Curabitur non blandit dui. Maecenas in ipsum nec leo pellentesque sodales et nec quam. Ut ut facilisis metus, sit amet aliquam nibh. Quisque blandit dui quis augue dictum vehicula.
+Title: 
+Facilitator: 
+
+***
+
+**2:00 - 3:00**			Session 2
+
+Title: 
+Facilitator: 
+
+***
+
+**3:15 - 4:15**			Session 3
+
+Title: 
+Facilitator: 
+
+***
+
+**5:00 - 8:00 p.m.** 		Night Session
+
+
+	
+	Day 2
+	Thursday, August 22nd, 2019
+
+	Start time - 9:00 a.m. 
+
+	Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
+
+**8:00 - 8:45 a.m.** 		Pre-Session
+				
+Title: Outdoor Adventure
+Facilitator: 
+
+***
+
+**10:00 - 11:00 a.m.** 		Session 1
+				
+Title: 
+Facilitator: 
+
+
+**11:15 - 12:15 p.m.**		Session 2
+				
+Title: 
+Facilitator: 
+
+***
+
+**12:30 - 2:00 p.m.** 		Lunch and Learn
+
+Title: 
+Facilitator: 
+
+***
+
+**2:15 - 3:15 p.m.**		Session 4
+
+Title: 
+Facilitator: 
+
+***
+
+**3:30 - 5:00 p.m.**		Session 5
+
+Title: 
+Facilitator: 
+
+***
+
+**7:00 - 9:00 p.m.** 		Night Session
+
+Title:			
+
+Dinner
+Location: 
+
+Finish the day strong with a final group social and dinner before most of us part ways until next year. Raise a glass (of anything) with us to family reunions!
+
+
+	Day 3
+	Friday, August 23rd, 2019
+
+	Start time - 9:00 a.m.
+
+	Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
+
+**9:00 a.m. - 12:00 p.m.**
+
+***
+
+**12:30 p.m.**

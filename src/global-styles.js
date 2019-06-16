@@ -44,6 +44,11 @@ const GlobalStyle = createGlobalStyle`
     }
   }
 
+  a {
+    text-decoration: none;
+    color: #04476d;
+  }
+
   pre[class*="language-"] {
     background: rgba(245, 245, 245, 1);
     color: rgb(65, 76, 94);  }

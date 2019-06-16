@@ -1,62 +1,45 @@
 ---
-title: Welcome to the Blog!
-date: "2018-07-01"
+title: Purpose & Welcome
+date: "2019-06-15"
 featuredImage: './featured.jpg'
 ---
+**Mission**: _To create belonging and advance equity for minority veterans._
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+**Vision**: _A just world that empowers minority veterans._
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## Purpose of the Emerging Leaders Retreat
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+1. To the develop a community of emerging minority veteran leaders who will carry the mission of MVA forward.
+2. To bring the MVA leadership team to learn and grow while sharing space.
+3. To invest deeply in the individual and leadership development of each member of the MVA leadership team.
+4. To challenge our leaders to grow and stretch their understanding of the communities we serve. 
+5. To help MVA leaders feel more connected to the mission of the organization and their own role within it.
+6. To partner leaders with mentors after the retreat who will commit to the development our leaders on an ongoing basis. 
 
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
+***
 
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+## Letter to Leaders
 
-### Pellentesque consectetur facilisis venenatis
+Dear MVA Leadership Team,
 
-Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
+Welcome to Seattle! We are so excited to have you at this inaugural Minority Veterans of America Emerging Leader Retreat. Never did I think, just one year ago, that this would be where we are as an organization today. At this time last year, I still felt a sense of despair after feeling like there was no place in the veteran community that would let me be a part, just the way that I am. No more, no less. 
 
-> Quisque tempor nulla turpis, ut placerat arcu lobortis nec. Aenean sed vehicula nisi. Nullam vitae placerat enim. Etiam hendrerit enim vel tempor fermentum. Morbi rutrum euismod ipsum a luctus.
+As we all know, the answer was that there was no place. In response, we came together and did what we do best. We rolled up our sleeves and go to work. We built something. 
 
-Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.
+That’s our story. You all are the manifestation of our community’s ability to unite and rise up. We are all resilient, determined, and damn good leaders. We have proven we are capable of leading this community with a message of radical inclusion, in the hopes of building a brighter future for us all. 
 
-### Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et
+This retreat will be fun, challenging, and, with any luck, we will all leave here stronger and recharged, ready to tackle the next year ahead of us. If at any point, you have questions, comments, or concerns, please don’t hesitate to tell me or one of your leaders so we can address it immediately. 
 
-Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.
+Please approach this weekend with a growth mindset and bring everything you have to each session. What we each walk away with from this weekend will be a direct result of what each of us puts into it. I am here to learn from each of you and I’m so excited to be a part. 
 
-1.  Morbi posuere facilisis
-2.  Pellentesque habitant morbi tristique
-3.  Etiam malesuada dapibus
+Thank you, from the bottom of my heart, for being in here this weekend and for all of the work you each have put in to make MVA what it is today. We would not be here without each and every one of you.
 
-Ut vel ligula ante. Proin quis metus magna. Nulla nec dui vulputate, semper orci in, sagittis dolor. Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam.
 
-#### Sed ac orci a dolor venenatis vulputate
 
-Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
+Cheers,
 
-![Space](./space.jpg)
-
-Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus elementum dapibus nibh, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
-
-##### Nulla nec dui vulputate, semper orci in, sagittis dolor
-
-Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, wow!')
-})
-```
-
-###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
-
-Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
-
-Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.
+_Lindsay Church_<br/>
+_President_<br/>
+_Minority Veterans of America_
