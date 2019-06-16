@@ -4,6 +4,7 @@ import userConfig from '../../../config';
 import Container from '../Container';
 import HeaderImage from '../HeaderImage';
 import Social from '../Social';
+import Row from './Row';
 import H1 from '../H1';
 import H2 from '../H2';
 import P from './P';
@@ -15,14 +16,20 @@ function Header({ config }) {
 
   return (
     <Container>
-      <Wrapper>
-        {userConfig.showHeaderImage && (
-          <HeaderImage/>
-        )}
-        <H2><a href={social.website}>{author}</a></H2>
-        <P>presents the</P>
-        <H1><Link to="/">{title}</Link></H1>
+      <Row>
+        <Wrapper>
+          {userConfig.showHeaderImage && (
+            <HeaderImage/>
+          )}
+        </Wrapper>
+        <div>
+          <H2><a href={social.website}>{author}</a></H2>
+          <P>presents the</P>
+        </div>
+      </Row>
+      <Link to="/"><H1>{title}</H1><H1>2019</H1></Link>
         <H2>{description}</H2>
+        <H2>REI Flagship Store, 222 Yale Ave. N, Seattle, WA 98109</H2>
         {social &&
           <Social
             website={social.website}
@@ -31,8 +38,7 @@ function Header({ config }) {
             linkedin={social.linkedin}
           />
         }
-      </Wrapper>
-    </Container> 
+    </Container>
   );
 }
 

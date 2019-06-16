@@ -12,7 +12,7 @@ date: "2018-06-30"
 
 **12:00 p.m.**			Kickoff
 ***
-****12:00** - **12:30 p.m.** 		Welcome Session
+**12:00** - **12:30 p.m.** 		Welcome Session
 
 Title: Welcome
 Facilitator: 

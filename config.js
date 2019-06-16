@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'MVA Emerging Leaders Retreat 2019', // Required
+  title: 'Emerging Leader Retreat', // Required
   author: 'Minority Veterans of America', // Required
-  description: 'August 21-23, 2019 @ REI, Seattle Flagship',
+  description: 'August 21-23, 2019',
   primaryColor: '#f15d4e', // Required
   showHeaderImage: true,
   showShareButtons: true,

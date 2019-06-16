@@ -11,6 +11,9 @@ const GlobalStyle = createGlobalStyle`
   *:after {
     box-sizing: inherit;
   }
+  * {
+    padding: 0 0 0 0;
+  }
 
   html {
     font-size: 62.5%;
@@ -21,9 +24,9 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background: #f9fafc;
-    font-family: 'Open Sans', sans-serif; 
+    font-family: 'Avenir', sans-serif; 
     line-height: 1.5;
-    padding: 50px 0;
+    padding: 0 0 0 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -55,10 +58,10 @@ const GlobalStyle = createGlobalStyle`
 
   @media only screen and (max-width: 870px) {
     .gatsby-highlight {
-      margin: 15px -15px;
+      margin: 0px 0px;
 
       pre[class*="language-"] {
-        padding: 25px;
+        padding: 0px;
       }
     }
   }
