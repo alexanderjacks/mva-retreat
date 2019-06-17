@@ -18,6 +18,19 @@ featuredImage: './featured.jpg'
 5. To help MVA leaders feel more connected to the mission of the organization and their own role within it.
 6. To partner leaders with mentors after the retreat who will commit to the development our leaders on an ongoing basis. 
 
+
+
+How do we solve the greatest issues facing the minority veteran community?
+
+This is a question that many are grappling with as Veterans of Color, LGBTQ, Womxn, and (Non) Religious Minority veterans continue to be disproportionately impacted by nearly every issue facing the veteran community today.
+
+We believe that in order to confront the greatest issues affecting our communities, we must empower emerging leaders to create community driven solutions. In doing this, we create belonging and community investment that we can turn toward addressing the equity gaps that exist for minority and underrepresented veterans.
+
+This year, MVA will host our inaugural Emerging Leaders Retreat from Aug. 21-23, 2019 in Seattle, WA. Our team has set the ambitious goal of educating 25 leaders from around the country. These leaders represent a community eager for leadership and opportunity, that want to continue to serve in a new capacity. This is the next generation of leaders, ready to develop their proficiencies to face complex challenges head on.
+
+These are minority vet leaders.
+
+
 ***
 
 ## Letter to Leaders

@@ -1,16 +1,18 @@
 import styled from 'styled-components';
 
-const Row = styled.header`
+const HiddenRow = styled.header`
+  & > Wrapper { display: none;} 
+  
   margin: 0 0 0 0;
   padding: 0 0 0 0;
   min-width: 100vw;
   
-  display: flex;
-  flex-direction: row;
+
+  flex-direction: row-reverse;
 
   text-align: center;
-  -webkit-justify-content: center; /_ Safari _/
-  justify-content:         center;
+  -webkit-justify-content: flex-end; /_ Safari _/
+  justify-content:         flex-end;
   -webkit-align-items: center; /_ Safari _/
   align-items:         center;
 
@@ -21,4 +23,4 @@ const Row = styled.header`
 
 `;
 
-export default Row;
+export default HiddenRow;

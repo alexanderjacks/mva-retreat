@@ -1,7 +1,9 @@
 ---
 title: Proposed Schedule
 date: "2018-06-30"
+featuredImage: './workshop.jpg'
 ---
+
 
 	Day 1
 	Wednesday, August 21st, 2019
@@ -63,6 +65,7 @@ Facilitator:
 Title: 
 Facilitator: 
 
+***
 
 **11:15 - 12:15 p.m.**		Session 2
 				

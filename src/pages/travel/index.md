@@ -1,6 +1,8 @@
 ---
 title: Travel Guide
 date: "2018-06-29"
+featuredImage: './seattle_rocks.jpg'
+
 ---
 
 ## Lodging
@@ -15,8 +17,6 @@ Spring Hill Suites Downtown
 Seattle has some of the best public transportation in the United States. You can purchase daily passes for unlimited use at multiple locations throughout Seattle and at the SEATAC airport.  Visit King County Metro to learn more about how to use and plan a trip.
 
 > Uber and Lyft are easily accessible throughout the city but can become expensive during commuting hours in the morning and evening. During rush hours, public transportation is the best option as there are dedicated bus lanes and the light rail is underground in the city.
-
-![Train Tracks](./traintrack.jpg)
 
 ### [Bus Guide](https://kingcounty.gov/depts/transportation/metro/travel-options/bus.aspx)
 
