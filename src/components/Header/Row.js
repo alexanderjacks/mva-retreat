@@ -3,6 +3,7 @@ import styled from 'styled-components';
 const Row = styled.header`
   margin: 0 0 0 0;
   padding: 0 0 0 0;
+  border 0 0 0 0;
   min-width: 100vw;
   
   display: flex;
@@ -15,7 +16,7 @@ const Row = styled.header`
   align-items:         center;
 
 
-  background: #f15d4e;
+  background: #ffffff;
 
 `;
 

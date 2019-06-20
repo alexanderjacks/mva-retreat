@@ -20,7 +20,7 @@ featuredImage: './featured.jpg'
 
 
 
-How do we solve the greatest issues facing the minority veteran community?
+## How do we solve the greatest issues facing the minority veteran community?
 
 This is a question that many are grappling with as Veterans of Color, LGBTQ, Womxn, and (Non) Religious Minority veterans continue to be disproportionately impacted by nearly every issue facing the veteran community today.
 
