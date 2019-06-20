@@ -18,7 +18,12 @@ function Header({ config }) {
     <Container>
         <LogoImage/>
         <div class="white-bg"><H1>25 leaders. <span class="red-text">3 days.</span> Endless possibilities.</H1></div>
-        <H2>REI Flagship Store, 222 Yale Ave. N,</H2><H2> Seattle, WA 98109</H2>
+        <span class="centermax">
+          <H2>REI Flagship Store, 222 Yale Ave. N,</H2>
+        </span>
+        <span class="centermax">
+          <H2> Seattle, WA 98109</H2>
+        </span>
         {social &&
           <Social
             website={social.website}

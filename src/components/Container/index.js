@@ -6,11 +6,6 @@ display: -webkit-flex; /_ Safari _/
 display: flex;
 flex-direction: column;
 
-text-align: center;
-  -webkit-justify-content: center; /_ Safari _/
-  justify-content:         center;
-  -webkit-align-items: center; /_ Safari _/
-  align-items:         center;
 `;
 
 export default Container;

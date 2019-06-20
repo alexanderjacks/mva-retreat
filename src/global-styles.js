@@ -6,6 +6,16 @@ const GlobalStyle = createGlobalStyle`
   
   @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
   
+  .centermax {
+    display: flex;
+    text-align: center;
+      -webkit-justify-content: center; /_ Safari _/
+      justify-content:         center;
+      -webkit-align-items: center; /_ Safari _/
+      align-items:         center;
+    margin: 0rem 0.4rem 0.6rem 0.4rem;
+  }
+
   .white-bg {
     background-color: white;
   }

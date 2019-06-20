@@ -6,7 +6,7 @@ const Button = styled(Link)`
   border-radius: 25px;
   color: #3e465b;
   display: inline-block;
-  font-size: 10px;
+  font-size: calc(2vh + 10px);
   font-weight: 700;
   margin: 0 10px;
   padding: 5px 15px;
