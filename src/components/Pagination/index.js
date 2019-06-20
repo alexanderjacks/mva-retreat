@@ -4,6 +4,7 @@ import Wrapper from './Wrapper';
 import Button from '../Button';
 
 function Pagination({previousUrl, nextUrl, isFirst = false, isLast = false}) {
+
   return (
     <Wrapper>
       {!isFirst &&
