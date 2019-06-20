@@ -17,8 +17,6 @@ const Row = styled.header`
 
   background: #f15d4e;
 
-  padding-bottom: 2vh;
-
 `;
 
 export default Row;
