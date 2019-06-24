@@ -4,8 +4,13 @@ import styledNormalize from "styled-normalize";
 const GlobalStyle = createGlobalStyle`
   ${styledNormalize}
   
-  @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
-  
+  @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+  .socialbtn {
+    padding: 1.42rem;
+    border: 0.52rem #f15d4e dashed;
+  }
+
   .centermax {
     display: flex;
     text-align: center;
@@ -42,7 +47,7 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background: #f9fafc;
-    font-family: 'Avenir', sans-serif; 
+    font-family: 'Nunito', 'Avenir', sans-serif; 
     line-height: 1.5;
     padding: 0 0 0 0;
     -webkit-font-smoothing: antialiased;

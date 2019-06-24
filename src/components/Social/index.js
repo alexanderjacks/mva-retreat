@@ -7,7 +7,7 @@ function Social({ website, twitter, linkedin }) {
   return (
     <Wrapper>
       {website && (
-        <SocialLink href={website} target="_blank" rel="noopener">
+        <SocialLink href={website} target="_blank" rel="noopener" className="socialbtn">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -26,7 +26,7 @@ function Social({ website, twitter, linkedin }) {
         </SocialLink>
       )}
       {twitter && (
-        <SocialLink href={twitter} target="_blank" rel="noopener">
+        <SocialLink href={twitter} target="_blank" rel="noopener" className="socialbtn">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -44,7 +44,7 @@ function Social({ website, twitter, linkedin }) {
         </SocialLink>
       )}
       {linkedin && (
-        <SocialLink href={linkedin} target="_blank" rel="noopener">
+        <SocialLink href={linkedin} target="_blank" rel="noopener" className="socialbtn">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"

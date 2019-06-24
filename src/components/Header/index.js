@@ -1,17 +1,11 @@
 import React from 'react';
-
 import Container from '../Container';
-import userConfig from '../../../config';
-
 import LogoImage from '../LogoImage';
-import Social from '../Social';
-
 import H1 from '../H1';
 import H2 from '../H2';
 
-function Header({ config }) {
-  const { social } = config;
-
+function Header() {
+  
   return (
     <Container>
         <LogoImage/>
@@ -21,14 +15,6 @@ function Header({ config }) {
         <span class="centermax">
           <H2> Seattle, WA</H2>
         </span>
-        {social &&
-          <Social
-            website={social.website}
-            github={social.github}
-            twitter={social.twitter}
-            linkedin={social.linkedin}
-          />
-        }
     </Container>
   );
 }
