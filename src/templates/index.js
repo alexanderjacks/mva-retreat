@@ -26,6 +26,7 @@ const IndexPage = ({ pageContext }) => {
             content={`${userConfig.title} | ${userConfig.description}`}
           />
         </Helmet>
+        <div className="cards-to-1-column-on-mobile">
         {group.map(({ node }) => (
           <Card key={node.fields.slug}>
             <Summary
@@ -37,6 +38,7 @@ const IndexPage = ({ pageContext }) => {
             />
           </Card>
         ))}
+        </div>
         <Pagination
           isFirst={index === 1}
           isLast={index === pageCount}

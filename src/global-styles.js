@@ -6,6 +6,17 @@ const GlobalStyle = createGlobalStyle`
   
   @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
+  .cards-to-1-column-on-mobile {
+    display: grid;
+    grid-gap: 1rem;
+    align-items: start;
+    padding: 1rem 1rem 0rem 1rem;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    grid-template-rows: repeat(auto-fill, minmax(29vh, 1fr));
+    background-color: #f15d4e;
+  }
+
   .socialbtn {
     padding: 1.42rem;
     border: 0.52rem #f15d4e dashed;
