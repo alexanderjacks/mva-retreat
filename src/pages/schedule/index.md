@@ -1,6 +1,6 @@
 ---
 title: Proposed Schedule
-date: "2018-06-30"
+date: "2019-06-30"
 featuredImage: './workshop.jpg'
 ---
 

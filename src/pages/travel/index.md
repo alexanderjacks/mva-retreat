@@ -1,6 +1,6 @@
 ---
 title: Travel Guide
-date: "2018-06-29"
+date: "2019-06-29"
 featuredImage: './seattle_rocks.jpg'
 
 ---

@@ -7,19 +7,13 @@ const GlobalStyle = createGlobalStyle`
   @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
   .cards-to-1-column-on-mobile {
-    display: grid;
-    grid-gap: 1rem;
-    align-items: start;
-    padding: 1rem 1rem 0rem 1rem;
-    justify-items: center;
-    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
-    grid-template-rows: repeat(auto-fill, minmax(29vh, 1fr));
     background-color: #f15d4e;
-  }
 
-  .socialbtn {
-    padding: 1.42rem;
-    border: 0.52rem #f15d4e dashed;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 2fr));
+    grid-gap: 30px;
+
+    padding: 1rem 1rem 0rem 1rem;
   }
 
   .centermax {
@@ -29,7 +23,7 @@ const GlobalStyle = createGlobalStyle`
       justify-content:         center;
       -webkit-align-items: center; /_ Safari _/
       align-items:         center;
-    margin: 0rem 0.4rem 0.6rem 0.4rem;
+    margin: 0 0 0 0;
   }
 
   .white-bg {

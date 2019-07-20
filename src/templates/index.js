@@ -30,9 +30,7 @@ const IndexPage = ({ pageContext }) => {
         {group.map(({ node }) => (
           <Card key={node.fields.slug}>
             <Summary
-              date={node.frontmatter.date}
               title={node.frontmatter.title}
-              excerpt={node.excerpt}
               image={node.frontmatter.featuredImage}
               slug={node.fields.slug}
             />
