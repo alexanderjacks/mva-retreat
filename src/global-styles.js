@@ -4,8 +4,6 @@ import styledNormalize from "styled-normalize";
 const GlobalStyle = createGlobalStyle`
   ${styledNormalize}
   
-  @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
-
   .cards-to-1-column-on-mobile {
     background-color: #f15d4e;
 
@@ -52,7 +50,7 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background: #f9fafc;
-    font-family: 'Nunito', 'Avenir', sans-serif; 
+    font-family: 'Avenir', sans-serif; 
     line-height: 1.5;
     padding: 0 0 0 0;
     -webkit-font-smoothing: antialiased;

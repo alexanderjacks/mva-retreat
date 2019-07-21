@@ -1,16 +1,15 @@
 ---
 title: Proposed Schedule
 date: "2019-06-30"
-featuredImage: './workshop.jpg'
+featuredImage: './schedule.png'
 ---
 
 
-	Day 1
-	Wednesday, August 21st, 2019
+## Day 1
+## Wednesday, August 21st, 2019
 
-	Start time - 12:00 pm 
-	Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
-
+### Start time - 12:00 pm 
+### Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
 
 **12:00 p.m.**			Kickoff
 ***
@@ -46,29 +45,29 @@ Facilitator:
 
 
 	
-	Day 2
-	Thursday, August 22nd, 2019
+## Day 2
+## Thursday, August 22nd, 2019
 
-	Start time - 9:00 a.m. 
+### Start time - 9:00 a.m. 
 
-	Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
+### Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
 
 **8:00 - 8:45 a.m.** 		Pre-Session
-				
+
 Title: Outdoor Adventure
 Facilitator: 
 
 ***
 
 **10:00 - 11:00 a.m.** 		Session 1
-				
+
 Title: 
 Facilitator: 
 
 ***
 
-**11:15 - 12:15 p.m.**		Session 2
-				
+**11:15 - 12:15 p.m.** 		Session 2
+
 Title: 
 Facilitator: 
 
@@ -97,20 +96,15 @@ Facilitator:
 
 **7:00 - 9:00 p.m.** 		Night Session
 
-Title:			
-
-Dinner
-Location: 
-
 Finish the day strong with a final group social and dinner before most of us part ways until next year. Raise a glass (of anything) with us to family reunions!
 
 
-	Day 3
-	Friday, August 23rd, 2019
+## Day 3
+## Friday, August 23rd, 2019
 
-	Start time - 9:00 a.m.
+### Start time - 9:00 a.m.
 
-	Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
+### Location - REI Seattle Flagship (222 Yale Ave. N, Seattle, WA 98109)
 
 **9:00 a.m. - 12:00 p.m.**
 

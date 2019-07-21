@@ -1,7 +1,7 @@
 ---
 title: Purpose & Welcome
 date: "2019-06-15"
-featuredImage: './featured.jpg'
+featuredImage: './welcome.png'
 ---
 **Mission**: _To create belonging and advance equity for minority veterans._
 

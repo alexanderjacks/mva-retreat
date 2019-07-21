@@ -1,7 +1,7 @@
 ---
 title: Travel Guide
 date: "2019-06-29"
-featuredImage: './seattle_rocks.jpg'
+featuredImage: './travel.png'
 
 ---
 

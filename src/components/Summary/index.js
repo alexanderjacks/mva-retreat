@@ -6,18 +6,14 @@ import Link from './Link';
 import ImageText from './ImageText';
 
 
-function Summary({date, title, excerpt, slug, image}) {
+function Summary({title, slug, image}) {
   return (
     <Wrapper>
-          <Link to={slug}>
-        <ImageText>{title}</ImageText>
-          </Link>
         {image &&
           <Link to={slug}>
             <FeaturedImage sizes={image.childImageSharp.sizes}/>
           </Link>
         }
-        
     </Wrapper>
   );
 }

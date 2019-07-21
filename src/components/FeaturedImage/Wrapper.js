@@ -1,11 +1,8 @@
 import styled from 'styled-components';
 
 const Wrapper = styled.div`
-  margin: -65px -90px 50px;
+  margin: 0 0 0 0;
 
-  @media only screen and (max-width: 1870px) {
-    margin: -65px -5px 50px;
-  }
 `;
 
 export default Wrapper;

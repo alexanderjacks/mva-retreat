@@ -11,7 +11,7 @@ function Footer({ config }) {
 
   return (
     <Container>
-        <div class="white-bg"><H1>Connect. Understand. Serve. <span class="red-text">Minority Vets.</span></H1></div>
+        <div class="white-bg"><H1>Connect. Understand. Serve.</H1><H1><span class="red-text">Minority Vets.</span></H1></div>
         {social &&
           <Social
             website={social.website}
