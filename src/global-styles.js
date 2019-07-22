@@ -5,32 +5,39 @@ const GlobalStyle = createGlobalStyle`
   ${styledNormalize}
   
   .cards-to-1-column-on-mobile {
-    background-color: #f15d4e;
-
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 2fr));
-    grid-gap: 30px;
-
-    padding: 1rem 1rem 0rem 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 3vw;
   }
 
+  .welcome-paragraphs {
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+    padding: 15vh 10vw 15vh 10vw;
+  }
   .centermax {
     display: flex;
+    flex-direction: row;
     text-align: center;
+    justify-content:         center;
       -webkit-justify-content: center; /_ Safari _/
-      justify-content:         center;
+    align-items:         center;
       -webkit-align-items: center; /_ Safari _/
-      align-items:         center;
     margin: 0 0 0 0;
+    align-content: center;
   }
 
-  .white-bg {
-    background-color: white;
-  }
+  .keep-50w { max-width: 50vw; }
 
-  .red-text {
-    color: #f15d4e;
-  }
+
+  .white-bg { background-color: white; }
+  .blue2-bg { background-color: #1A486D; }
+
+  .red-text { color: #ED7D4E; }
+  .white-text { color: white; }
 
   *,
   *:before,
@@ -47,7 +54,7 @@ const GlobalStyle = createGlobalStyle`
     -ms-text-size-adjust: 100%;
     box-sizing: border-box;
   }
-
+  
   body {
     background: #f9fafc;
     font-family: 'Avenir', sans-serif; 
