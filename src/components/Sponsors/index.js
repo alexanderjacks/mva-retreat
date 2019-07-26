@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Container from '../Container';
+import ButtonOut from '../ButtonOut';
 import DSICCImage from '../DSICCImage';
 import TMobileLogo from '../TMobileLogo';
 import H2 from '../H2';
@@ -24,6 +25,9 @@ function Sponsors() {
 	            	Founding Sponsor
 	            	</span>
 	          	</P>
+              <ButtonOut href="http://minorityvets.org/sponsorelr/" target="_blank" rel="noopener" >
+                Become a Sponsor
+              </ButtonOut>
           </div>
         </div>
     </div>
