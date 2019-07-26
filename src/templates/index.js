@@ -12,6 +12,7 @@ import H2 from '../components/H2';
 import Card from '../components/Card';
 import Summary from '../components/Summary';
 import Retreat from '../components/Retreat';
+import Sponsors from '../components/Sponsors';
 
 const IndexPage = ({ pageContext }) => {
   const { group, index, pageCount } = pageContext;
@@ -60,6 +61,7 @@ const IndexPage = ({ pageContext }) => {
           </div>
         </div>
         <Retreat/>
+        <Sponsors/>
         <Pagination
           isFirst={index === 1}
           isLast={index === pageCount}

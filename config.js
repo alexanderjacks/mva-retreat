@@ -2,7 +2,7 @@ module.exports = {
   title: 'Emerging Leader Retreat', // Required
   author: 'Minority Veterans of America', // Required
   description: 'August 21-23, 2019',
-  primaryColor: '#f15d4e', // Required
+  primaryColor: '#1A486D', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required

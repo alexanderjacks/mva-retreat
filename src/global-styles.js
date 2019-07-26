@@ -12,11 +12,22 @@ const GlobalStyle = createGlobalStyle`
 
   .welcome-paragraphs {
     display: flex;
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-justify-content: flex-start;
-    justify-content: flex-start;
+    flex-direction: row;
+    flex-flow: row wrap;
+
+    justify-content: center;
+    -webkit-justify-content: center;
+    
+    align-items:         flex-start;
+    -webkit-align-items: flex-start; /_ Safari _/
+    
+    margin: 0 0 0 0;
     padding: 15vh 10vw 15vh 10vw;
+  }
+  .welcome-paragraphs P {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
   }
   .centermax {
     display: flex;

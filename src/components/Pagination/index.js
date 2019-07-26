@@ -6,7 +6,7 @@ import Button from '../Button';
 function Pagination({previousUrl, nextUrl, isFirst = false, isLast = false}) {
 
   return (
-    <Wrapper>
+    <Wrapper class="top-clearance-xl bottom-clearance">
       {!isFirst &&
         <Button to={previousUrl}>&larr; Newer Posts</Button>
       }
