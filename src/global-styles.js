@@ -1,50 +1,8 @@
-import { createGlobalStyle } from "styled-components";
 import styledNormalize from "styled-normalize";
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
   ${styledNormalize}
-  
-  .cards-to-1-column-on-mobile {
-    background-color: #f15d4e;
-
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 2fr));
-    grid-gap: 30px;
-
-
-  .welcome-paragraphs {
-    display: flex;
-    flex-direction: row;
-    flex-flow: row wrap;
-
-    justify-content: center;
-    -webkit-justify-content: center;
-    
-    align-items:         flex-start;
-    -webkit-align-items: flex-start; /_ Safari _/
-    
-    margin: 0 0 0 0;
-    padding: 15vh 10vw 15vh 10vw;
-  }
-
-  .centermax {
-    display: flex;
-    text-align: center;
-      -webkit-justify-content: center; /_ Safari _/
-      justify-content:         center;
-      -webkit-align-items: center; /_ Safari _/
-      align-items:         center;
-    margin: 0 0 0 0;
-  }
-
-  .white-bg {
-    background-color: white;
-  }
-
-  .red-text {
-    color: #f15d4e;
-  }
-
   *,
   *:before,
   *:after {
@@ -104,5 +62,54 @@ const GlobalStyle = createGlobalStyle`
       }
     }
   }
+
+
+  .cards-to-1-column-on-mobile {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 2fr));
+    grid-gap: 30px;
+  }
+  .welcome-paragraphs {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+
+    justify-content: center;
+    -webkit-justify-content: center;
+    
+    align-items:         flex-start;
+    -webkit-align-items: flex-start; /_ Safari _/
+    
+    margin: 0 0 0 0;
+    padding: 15vh 10vw 15vh 10vw;
+  }
+  .welcome-paragraphs P {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .centermax {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content:         center;
+      -webkit-justify-content: center; /_ Safari _/
+    align-items:         center;
+      -webkit-align-items: center; /_ Safari _/
+    margin: 0 0 0 0;
+    align-content: center;
+  }
+  .white-bg { background-color: white; }
+  .blue2-bg { background-color: #1A486D; }
+  
+  .white-text { color: white; }
+  .red-text { color: #ED7D4E; }
+
+  .keep-50w { max-width: 50vw; }
+
+  .top-clearance-xl { padding-top: 8.5vh; }
+  .top-clearance { padding-top: 5vh; }
+  .bottom-clearance { padding-bottom: 5vh; }
+
 `;
 export default GlobalStyle;

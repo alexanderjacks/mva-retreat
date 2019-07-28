@@ -8,12 +8,11 @@ const P = styled.p`
   @media (min-resolution: 40px) {
   	text-align: center;
   }
-  @media (min-resolution: 361px) {
+  @media (min-resolution: 360px) {
   	text-align: left;
   }
-  font-size: 1.6em;
-  margin: 50px 0 0 0;
-  text-align: center;
+  font-size: calc(1.05vw + 1.05vh + 1.05vmin);
+  margin: 2rem 0 2rem 0;
 `;
 
 export default P;

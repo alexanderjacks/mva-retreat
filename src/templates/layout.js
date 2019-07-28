@@ -1,12 +1,12 @@
 import React from 'react';
 import 'prismjs/themes/prism.css';
 
-import '../global-styles';
 import userConfig from '../../config';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import GlobalStyle from '../global-styles';
+import '../global-styles';
 
 class Template extends React.Component {
   render() {

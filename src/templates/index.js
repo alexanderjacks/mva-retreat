@@ -1,16 +1,16 @@
 import Helmet from 'react-helmet';
 import React from 'react';
-
 import userConfig from '../../config';
-
 import Layout from './layout';
-
 import Card from '../components/Card';
+import P from '../components/P';
+import H2 from '../components/H2';
 import Container from '../components/Container';
 import Pagination from '../components/Pagination';
 import Summary from '../components/Summary';
 
 import Retreat from '../components/Retreat';
+import Sponsors from '../components/Sponsors';
 
 
 const IndexPage = ({ pageContext }) => {
@@ -59,7 +59,9 @@ const IndexPage = ({ pageContext }) => {
             </H2>
           </div>
         </div>
+        
         <Retreat/>
+        <Sponsors/>
 
         <Pagination
           isFirst={index === 1}
