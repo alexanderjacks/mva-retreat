@@ -5,10 +5,12 @@ const GlobalStyle = createGlobalStyle`
   ${styledNormalize}
   
   .cards-to-1-column-on-mobile {
+    background-color: #f15d4e;
+
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 3vw;
-  }
+    grid-template-columns: repeat(auto-fill, minmax(350px, 2fr));
+    grid-gap: 30px;
+
 
   .welcome-paragraphs {
     display: flex;
@@ -24,34 +26,24 @@ const GlobalStyle = createGlobalStyle`
     margin: 0 0 0 0;
     padding: 15vh 10vw 15vh 10vw;
   }
-  .welcome-paragraphs P {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-  }
+
   .centermax {
     display: flex;
-    flex-direction: row;
     text-align: center;
-    justify-content:         center;
       -webkit-justify-content: center; /_ Safari _/
-    align-items:         center;
+      justify-content:         center;
       -webkit-align-items: center; /_ Safari _/
+      align-items:         center;
     margin: 0 0 0 0;
-    align-content: center;
   }
 
-  .keep-50w { max-width: 50vw; }
+  .white-bg {
+    background-color: white;
+  }
 
-  .top-clearance-xl { padding-top: 8.5vh; }
-  .top-clearance { padding-top: 5vh; }
-  .bottom-clearance { padding-bottom: 5vh; }
-
-  .white-bg { background-color: white; }
-  .blue2-bg { background-color: #1A486D; }
-
-  .red-text { color: #ED7D4E; }
-  .white-text { color: white; }
+  .red-text {
+    color: #f15d4e;
+  }
 
   *,
   *:before,
@@ -68,7 +60,7 @@ const GlobalStyle = createGlobalStyle`
     -ms-text-size-adjust: 100%;
     box-sizing: border-box;
   }
-  
+
   body {
     background: #f9fafc;
     font-family: 'Avenir', sans-serif; 

@@ -10,6 +10,7 @@ function Header() {
   return (
     <Container>
         <Link to="/">
+
 			<LogoImage/>
 			<div class="centermax">
 	          	<H1>

@@ -4,15 +4,14 @@ import React from 'react';
 import userConfig from '../../config';
 
 import Layout from './layout';
-import Pagination from '../components/Pagination';
 
-import Container from '../components/Container';
-import P from '../components/P';
-import H2 from '../components/H2';
 import Card from '../components/Card';
+import Container from '../components/Container';
+import Pagination from '../components/Pagination';
 import Summary from '../components/Summary';
+
 import Retreat from '../components/Retreat';
-import Sponsors from '../components/Sponsors';
+
 
 const IndexPage = ({ pageContext }) => {
   const { group, index, pageCount } = pageContext;
@@ -30,7 +29,7 @@ const IndexPage = ({ pageContext }) => {
             content={`${userConfig.title} | ${userConfig.description}`}
           />
         </Helmet>
-        <div class="cards-to-1-column-on-mobile">
+        <div className="cards-to-1-column-on-mobile">
         {group.map(({ node }) => (
           <Card key={node.fields.slug}>
             <Summary
@@ -61,7 +60,7 @@ const IndexPage = ({ pageContext }) => {
           </div>
         </div>
         <Retreat/>
-        <Sponsors/>
+
         <Pagination
           isFirst={index === 1}
           isLast={index === pageCount}
