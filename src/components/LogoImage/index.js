@@ -6,7 +6,7 @@ import imgSrc from '../../ELR_logo.png';
 function LogoImage() {
   return (
     <Div>
-    	<img src={imgSrc} alt="Minority Veterans of America Emerging Leaders Retreat" />
+    	<img src={imgSrc} alt="" />
     </Div>
   );
 }
