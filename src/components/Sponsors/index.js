@@ -2,7 +2,6 @@ import React from 'react';
 
 import Container from '../Container';
 import ButtonOut from '../ButtonOut';
-import DSICCImage from '../DSICCImage';
 import TMobileLogo from '../TMobileLogo';
 import H2 from '../H2';
 import P from '../P';
