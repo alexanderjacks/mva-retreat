@@ -22,12 +22,15 @@ function Retreat() {
           	</div>
           	<div class="keep-50w">
 	          	<H2 class="centermax"><span class="white-text">
-	            	Daybreak Star Indian Cultural Center
+	            	SpringHill Suites
 	            	</span>
 	          	</H2>
-	          	<P><span class="white-text">
-	            	5011 Bernie Whitebear Way, Seattle, WA 98199
+	          	<P>
+                <a href="https://www.marriott.com/hotels/travel/seadt-springhill-suites-seattle-downtown-south-lake-union/" target="_blank">
+                <span class="white-text">
+                1800 Yale Ave., Seattle, WA 98101
 	            	</span>
+                </a>
 	          	</P>
           </div>
         </div>

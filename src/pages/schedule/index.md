@@ -4,153 +4,157 @@ date: "2019-06-30"
 featuredImage: './schedule.png'
 ---
 
+## <span class="red-text">Day 1: Wednesday, August 21st, 2019</span>
 
-## Day 1: Wednesday, August 21st, 2019
+Start time - 1:00 p.m. 
+======================
+SpringHill Suites
 
->Start time - 1:00 pm 
-
->Location - Daybreak Star Indian Cultural Center 
-5011 Bernie Whitebear Way
-Seattle, WA 98199
+1800 Yale Ave.,
+Seattle, WA 98101
 
 
-### 1:00 - 1:30 pm 		Kickoff and Welcome Session
 
-**Title: Welcome Emerging Leader Kickoff**
+### <span class="phantom-spacer">xxxx</span> 1:00 - 1:30 p.m. 		Kickoff and Welcome Session
 
-Facilitator: Lindsay Church
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Welcome Emerging Leader Kickoff**
 
-### 1:30 - 2:40 pm			Session 1
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Lindsay Church
 
-**Title: Strength in Leading from Vulnerability**
+### <span class="phantom-spacer">xxxx</span> 1:30 - 2:40 p.m.			Session 1
 
-Facilitator: Uma Mishra-Newbery
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Strength in Leading from Vulnerability**
 
-### 2:50 - 4:00	pm		Session 2
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Uma Mishra-Newbery
 
-**Title: The Art of Showing Up - Reclaiming and Redefining Allyship**
+### <span class="phantom-spacer">xxxx</span> 2:50 - 4:00 p.m.		Session 2
 
-Facilitator: Eric Ballentine
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: The Art of Showing Up - Reclaiming and Redefining Allyship**
 
-### 4:15 - 5:30 pm			Mind-Body Balance Session (Optional)
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Eric Ballentine
 
-**Title: Outdoor Adventure - Water Day!**
+### <span class="phantom-spacer">xxxx</span> 4:15 - 5:30 p.m.			Mind-Body Balance Session (Optional)
 
-Facilitator: Outdoors for All
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Outdoor Adventure - Water Day!**
 
-> Get out on the water at Discovery Park with our partners Outdoors for All. Participants can choose to kayak, SUP, or just hang out in the outdoors after a day of travel and sitting. 
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Outdoors for All
 
-### 7:00 - 9:00 pm			Dinner/Social Event
++ Get out on the water at Discovery Park with our partners Outdoors for All. Participants can choose to kayak, SUP, or just hang out in the outdoors after a day of travel and sitting. 
+
+### <span class="phantom-spacer">xxxx</span> 7:00 - 9:00 p.m.			Dinner/Social Event
 
 Location: Flatstick Pub - South Lake Union
 
 ***
 	
-## Day 2: Thursday, August 22nd, 2019
+## <span class="red-text">Day 2: Thursday, August 22nd, 2019</span>
 
-> Start time - 9:00 am 
+Start time - 9:00 a.m. 
+======================
+SpringHill Suites
 
 
-### 7:30 - 8:45 am 		Mind-Body Balance Session
+### <span class="phantom-spacer">xxxx</span> 7:30 - 8:45 a.m. 		Mind-Body Balance Session
 
-**Title: Daybreak Yoga**
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Daybreak Yoga**
 
-Facilitator: Alyssa Pizarro
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Alyssa Pizarro
 
-### 9:00 - 10:10 am 		Education Session
+### <span class="phantom-spacer">xxxx</span> 9:00 - 10:10 a.m. 		Education Session
 				
-**Title: Challenges of Collaboration as Minority Leaders**
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Challenges of Collaboration as Minority Leaders**
 
-Facilitator: Uma Mishra-Newbery
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Uma Mishra-Newbery
 
-### 10:25 - 11:35 am 		Education Session
+### <span class="phantom-spacer">xxxx</span> 10:25 - 11:35 a.m. 		Education Session
 				
-**Title: Inspiring Action in Others**
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Inspiring Action in Others**
 
-Facilitator: Bill Kirst
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Bill Kirst
 
-### 11:45 am - 1:00 pm		Lunch
+### <span class="phantom-spacer">xxxx</span> 11:45 a.m. - 1:00 p.m.		Lunch
 
-### 1:00 - 2:10 pm		Skills Session
+### <span class="phantom-spacer">xxxx</span> 1:00 - 2:10 p.m.		Skills Session
 
-**Breakout Session Title: Building Your Professional Brand**
+**<span class="phantom-spacer">xxxxxxxxx</span>Breakout Session Title: Building Your Professional Brand**
 
-Facilitator: Bill Kirst 
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Bill Kirst 
 
-**Breakout Session Title: Using Art to Facilitate Connection**
+**<span class="phantom-spacer">xxxxxxxxx</span>Breakout Session Title: Using Art to Facilitate Connection**
 
-Facilitator: Luz Helena Thompson
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Luz Helena Thompson
 
-### 2:20 - 3:30 pm		Skills Session
+### <span class="phantom-spacer">xxxx</span> 2:20 - 3:30 p.m.		Skills Session
 
-**Breakout Session Title: Budget Development and Fundraising**
+**<span class="phantom-spacer">xxxxxxxxx</span>Breakout Session Title: Budget Development and Fundraising**
 
-Facilitator: Robert White
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Robert White
 
-**Breakout Session Title: Public Speaking and Presentation Skills**
+**<span class="phantom-spacer">xxxxxxxxx</span>Breakout Session Title: Public Speaking and Presentation Skills**
 
-Facilitator: Michael Lewis and Eric Ballentine
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Michael Lewis and Eric Ballentine
 
-### 3:45 - 5:00	pm		Mind-Body Balance Session (Optional)
+### <span class="phantom-spacer">xxxx</span> 3:45 - 5:00	pm		Mind-Body Balance Session (Optional)
 
-**Title: Outdoor Adventure - Indoor Climbing**
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Outdoor Adventure - Indoor Climbing**
 
-Facilitator: Outdoors for All
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Outdoors for All
 
-> Shake off a day of sitting with an afternoon indoor climbing at Vertical World. 
++ Shake off a day of sitting with an afternoon indoor climbing at Vertical World. 
 
-### 7:00 - 9:30 pm		ELR Banquet Dinner and Sponsors Networking Event
+### <span class="phantom-spacer">xxxx</span> 7:00 - 9:30 p.m.		ELR Banquet Dinner and Sponsors Networking Event
 
-**Fireside: Resilience in the Face of Extreme Adversity**
+**<span class="phantom-spacer">xxxxxxxxx</span>Fireside: Resilience in the Face of Extreme Adversity**
 
-Facilitator: Fireside Chat
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Fireside Chat
 
 ***
 
-## Day 3: Friday, August 23rd, 2019
+## <span class="red-text">Day 3: Friday, August 23rd, 2019</span>
 
-> Start time - 9:00 am
+Start time - 9:00 a.m. 
+======================
+SpringHill Suites
 
-> Location - Daybreak Star Indian Cultural Center 
 
-### 7:30 - 8:45 am 		Mind-Body Balance Sesion
+### <span class="phantom-spacer">xxxx</span> 7:30 - 8:45 a.m. 		Mind-Body Balance Sesion
 				
-**Title: Daybreak Yoga/Mindfulness**
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Daybreak Yoga/Mindfulness**
 
-Facilitator: Alyssa Pizarro
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Alyssa Pizarro
 
-### 9:00 - 10:10 am 		Session 1
+### <span class="phantom-spacer">xxxx</span> 9:00 - 10:10 a.m. 		Session 1
 				
-**Title: Why Race Matters**
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Why Race Matters**
 
-Facilitator: Robert White
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Robert White
 
-### 10:25 - 11:35 am 		Education Session
+### <span class="phantom-spacer">xxxx</span> 10:25 - 11:35 a.m. 		Education Session
 				
-**Title: Leading and Developing High Performing Teams**
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Leading and Developing High Performing Teams**
 
-Facilitator: T-Mobile Panel
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: T-Mobile Panel
 
-### 11:45 - 1:00 pm 		Lunch 
+### <span class="phantom-spacer">xxxx</span> 11:45 - 1:00 p.m. 		Lunch 
 
 
-### 1:00 - 2:10 pm		Session 2
+### <span class="phantom-spacer">xxxx</span> 1:00 - 2:10 p.m.		Session 2
 
-**Breakout Session Title: Mountain’s Are for Climbing - A Path to Recovery from Military Sexual Trauma**
+**<span class="phantom-spacer">xxxxxxxxx</span>Breakout Session Title: Mountain’s Are for Climbing - A Path to Recovery from Military Sexual Trauma**
 
-Facilitator(s): Trina McDonald and Luz Helena Thompson
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator(s): Trina McDonald and Luz Helena Thompson
 
-**Breakout Session Title:**
+**<span class="phantom-spacer">xxxxxxxxx</span>Breakout Session Title:**
 
-Facilitator: 
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: 
 
-### 2:20 - 3:30 pm		Session 3
+### <span class="phantom-spacer">xxxx</span> 2:20 - 3:30 p.m.		Session 3
 
-**Title: Narrative Storytelling**
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Narrative Storytelling**
 
-Facilitator: Michael Lewis
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Michael Lewis
 
-### 3:45 pm			Closing Remarks
-**Title: Where do we go from here?**
+### <span class="phantom-spacer">xxxx</span> 3:45 p.m.			Closing Remarks
+**<span class="phantom-spacer">xxxxxxxxx</span>Title: Where do we go from here?**
 
-Facilitator: Lindsay Church
+<span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Lindsay Church

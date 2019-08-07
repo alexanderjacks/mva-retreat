@@ -11,7 +11,7 @@ const P = styled.p`
   @media (min-resolution: 360px) {
   	text-align: left;
   }
-  font-size: calc(1.05vw + 1.05vh + 1.05vmin);
+  font-size: calc(0.85vw + 0.85vh + 0.85vmin);
   margin: 2rem 0 2rem 0;
 `;
 
