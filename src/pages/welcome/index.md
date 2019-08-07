@@ -5,7 +5,7 @@ featuredImage: './welcome.png'
 
 ---
 
-## Dear Emerging Leader Retreat Participants,
+## Dear Emerging Leaders,
 
 Welcome to Seattle! We are so excited to have you at this inaugural Minority Veterans of America Emerging Leader Retreat. Never did I think, just two years ago when we were just starting out, that this would be where we are as an organization and community today. At this time two years ago, I felt a sense of despair after feeling like there was no place in the veteran community that would let me be a part, just the way that I am. No more, no less. 
 
