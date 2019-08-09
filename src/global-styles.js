@@ -100,6 +100,14 @@ const GlobalStyle = createGlobalStyle`
     flex-direction: row;
     justify-content: flex-start;
   }
+
+  .centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
   .centermax {
     width: 100vw;
     display: flex;

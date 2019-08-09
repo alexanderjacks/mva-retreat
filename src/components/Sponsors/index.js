@@ -4,6 +4,7 @@ import Container from '../Container';
 import ButtonOut from '../ButtonOut';
 import TMobileLogo from '../TMobileLogo';
 import H2 from '../H2';
+import H3 from '../H3';
 import P from '../P';
 
 function Sponsors() {
@@ -28,8 +29,8 @@ function Sponsors() {
               Individual Donors
               </span>
             </H2>
-            <P class="navy-text">Robert White</P>
-            <P class="navy-text">Bill Kirst</P>
+            <H3 class="navy-text">Robert White</H3>
+            <H3 class="navy-text">Bill Kirst</H3>
           </div>
         </div>
         <div class="centerpad">

@@ -21,10 +21,12 @@ function Retreat() {
           		<DSICCImage />
           	</div>
           	<div class="keep-50w">
-	          	<H2 class="centerpad"><span class="white-text">
-	            	SpringHill Suites
-	            	</span>
-	          	</H2>
+  	          <div class="centerpad">
+              	<H2><span class="white-text">
+  	            	SpringHill Suites
+  	            	</span>
+  	          	</H2>
+              </div>
 	          	<P>
                 <a href="https://www.marriott.com/hotels/travel/seadt-springhill-suites-seattle-downtown-south-lake-union/" target="_blank">
                 <p class="white-text">
