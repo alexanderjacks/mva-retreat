@@ -21,7 +21,7 @@ function Retreat() {
           		<DSICCImage />
           	</div>
           	<div class="keep-50w">
-	          	<H2 class="centermax"><span class="white-text">
+	          	<H2 class="centerpad"><span class="white-text">
 	            	SpringHill Suites
 	            	</span>
 	          	</H2>
