@@ -25,9 +25,9 @@ function Sponsors() {
 	          	</P>
           </div>
         </div>
-        <div class="centermax">
+        <div class="centerpad">
             <div class="keep-50w">
-              <P class="centermax">
+              <P class="centerpad">
                 <H2 class="red-text">
                   <span class="red-text">
                     Individual Donors
