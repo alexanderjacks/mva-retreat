@@ -101,6 +101,19 @@ const GlobalStyle = createGlobalStyle`
     justify-content: flex-start;
   }
   .centermax {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content:         center;
+      -webkit-justify-content: center; /_ Safari _/
+    align-items:         center;
+      -webkit-align-items: center; /_ Safari _/
+    margin: 0 0 0 0;
+    align-content: center;
+  }
+
+  .centerpad {
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -116,11 +129,12 @@ const GlobalStyle = createGlobalStyle`
   
   .white-text { color: white; }
   .red-text { color: #ED7D4E; }
+  .navy-text { color: #1A486D; }
 
   .keep-50w { max-width: 50vw; }
 
   .top-clearance-xl { padding-top: 8.5vh; }
-  .top-clearance { padding-top: 5vh; }
+  .top-clearance { padding-top: 3vh; }
   .bottom-clearance { padding-bottom: 5vh; }
   
   .phantom-spacer {

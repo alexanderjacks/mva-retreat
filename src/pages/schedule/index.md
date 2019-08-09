@@ -7,12 +7,6 @@ featuredImage: './schedule.png'
 ## <span class="red-text">Day 1: Wednesday, August 21st, 2019</span>
 
 Start time - 1:00 p.m. 
-======================
-SpringHill Suites
-
-1800 Yale Ave.,
-Seattle, WA 98101
-
 
 
 ### <span class="phantom-spacer">xxxx</span> 1:00 - 1:30 p.m. 		Kickoff and Welcome Session
@@ -39,19 +33,18 @@ Seattle, WA 98101
 
 <span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Outdoors for All
 
-+ Get out on the water at Discovery Park with our partners Outdoors for All. Participants can choose to kayak, SUP, or just hang out in the outdoors after a day of travel and sitting. 
+<span class="phantom-spacer">xxxxxxxxxx</span>Get out on the water at Discovery Park with our partners Outdoors for All. Participants can choose to kayak, SUP, or just hang out in the outdoors after a day of travel and sitting. 
 
 ### <span class="phantom-spacer">xxxx</span> 7:00 - 9:00 p.m.			Dinner/Social Event
 
-Location: Flatstick Pub - South Lake Union
+<span class="phantom-spacer">xxxxxxxxxx</span>Location: Flatstick Pub - South Lake Union
 
 ***
 	
 ## <span class="red-text">Day 2: Thursday, August 22nd, 2019</span>
 
 Start time - 9:00 a.m. 
-======================
-SpringHill Suites
+
 
 
 ### <span class="phantom-spacer">xxxx</span> 7:30 - 8:45 a.m. 		Mind-Body Balance Session
@@ -100,7 +93,7 @@ SpringHill Suites
 
 <span class="phantom-spacer">xxxxxxxxxx</span>Facilitator: Outdoors for All
 
-+ Shake off a day of sitting with an afternoon indoor climbing at Vertical World. 
+<span class="phantom-spacer">xxxxxxxxxx</span>Shake off a day of sitting with an afternoon indoor climbing at Vertical World. 
 
 ### <span class="phantom-spacer">xxxx</span> 7:00 - 9:30 p.m.		ELR Banquet Dinner and Sponsors Networking Event
 
@@ -113,9 +106,6 @@ SpringHill Suites
 ## <span class="red-text">Day 3: Friday, August 23rd, 2019</span>
 
 Start time - 9:00 a.m. 
-======================
-SpringHill Suites
-
 
 ### <span class="phantom-spacer">xxxx</span> 7:30 - 8:45 a.m. 		Mind-Body Balance Sesion
 				
@@ -140,7 +130,7 @@ SpringHill Suites
 
 ### <span class="phantom-spacer">xxxx</span> 1:00 - 2:10 p.m.		Session 2
 
-**<span class="phantom-spacer">xxxxxxxxx</span>Breakout Session Title: Mountain’s Are for Climbing - A Path to Recovery from Military Sexual Trauma**
+**<span class="phantom-spacer">xxxxxxxxx</span>Breakout Session Title: Mountains Are for Climbing - A Path to Recovery from Military Sexual Trauma**
 
 <span class="phantom-spacer">xxxxxxxxxx</span>Facilitator(s): Trina McDonald and Luz Helena Thompson
 

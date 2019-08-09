@@ -31,7 +31,7 @@ const IndexPage = ({ pageContext }) => {
         </Helmet>
         <div className="cards-to-1-column-on-mobile">
         {group.map(({ node }) => (
-          <Card key={node.fields.slug}>
+          <Card key={node.fields.name}>
             <Summary
               title={node.frontmatter.title}
               image={node.frontmatter.featuredImage}

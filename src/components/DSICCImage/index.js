@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Div from './Div';
-import imgSrc from '../../SpringHill.png';
+import imgSrc from '../../SpringHill.jpeg';
 
 function DSICCImage() {
   return (

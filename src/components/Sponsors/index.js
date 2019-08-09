@@ -14,7 +14,7 @@ function Sponsors() {
         <div class="centermax">
           	<H2>
               <span class="red-text">
-          		Sponsors
+          		Founding Sponsor
           		</span>
           	</H2>
         </div>
@@ -22,9 +22,6 @@ function Sponsors() {
           	<div class="keep-50w">
 	          	<P class="centermax">
           		  <TMobileLogo />
-                <span class="red-text">
-	            	Founding Sponsor
-	            	</span>
 	          	</P>
           </div>
         </div>
@@ -36,8 +33,8 @@ function Sponsors() {
                     Individual Donors
                   </span>
                 </H2>
-                <p class="red-text">Robert White</p>
-                <p class="red-text">Bill Kirst</p>
+                <p class="navy-text">Robert White</p>
+                <p class="navy-text">Bill Kirst</p>
               </P>
           </div>
         </div>

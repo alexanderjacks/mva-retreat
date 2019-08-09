@@ -9,14 +9,14 @@ function Retreat() {
   
   return (
     <Container>
-    <div class="blue2-bg top-clearance-xl bottom-clearance">
+    <div class="blue2-bg top-clearance bottom-clearance">
         <div class="centermax">
           	<H2><span class="white-text">
           		Retreat Location
           		</span>
           	</H2>
         </div>
-        <div class="centermax">
+        <div class="centerpad">
           	<div class="keep-50w">
           		<DSICCImage />
           	</div>
@@ -27,9 +27,12 @@ function Retreat() {
 	          	</H2>
 	          	<P>
                 <a href="https://www.marriott.com/hotels/travel/seadt-springhill-suites-seattle-downtown-south-lake-union/" target="_blank">
-                <span class="white-text">
-                1800 Yale Ave., Seattle, WA 98101
-	            	</span>
+                <p class="white-text">
+                1800 Yale Ave.,
+	            	</p>
+                <p class="white-text">
+                Seattle, WA 98101
+                </p>
                 </a>
 	          	</P>
           </div>
