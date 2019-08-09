@@ -18,10 +18,10 @@ function Sponsors() {
           		</span>
           	</H2>
         </div>
-        <div class="centermax">
+        <div class="centerpad">
         	<TMobileLogo />
         </div>
-        <div class="centermax">
+        <div class="centerpad">
           <div class="keep-50w">
             <H2>
               <span class="red-text">            
@@ -32,7 +32,7 @@ function Sponsors() {
             <P class="navy-text">Bill Kirst</P>
           </div>
         </div>
-        <div class="centermax">
+        <div class="centerpad">
           <ButtonOut href="http://minorityvets.org/sponsorelr/" target="_blank" rel="noopener" >
             Become a Sponsor
           </ButtonOut>

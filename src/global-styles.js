@@ -128,6 +128,7 @@ const GlobalStyle = createGlobalStyle`
   .blue2-bg { background-color: #1A486D; }
   
   .white-text { color: white; }
+
   .red-text { color: #ED7D4E; }
   .navy-text { color: #1A486D; }
 
