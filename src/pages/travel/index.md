@@ -1,6 +1,6 @@
 ---
 title: Travel Guide
-date: "2019-06-29"
+date: "2019-01-04"
 featuredImage: './travel.png'
 
 ---

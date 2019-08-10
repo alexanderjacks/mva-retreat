@@ -1,6 +1,6 @@
 ---
 title: Suggested Readings
-date: "2019-07-20"
+date: "2019-01-02"
 featuredImage: './readings.png'
 
 ---
