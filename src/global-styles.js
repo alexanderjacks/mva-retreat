@@ -93,7 +93,7 @@ const GlobalStyle = createGlobalStyle`
     -webkit-align-items: center; /_ Safari _/
     
     margin: 0 0 0 0;
-    padding: 12vh 8vw 12vh 8vw;
+    padding: 4vh 8vw 0vh 8vw;
   }
   .welcome-paragraphs P {
     display: flex;
@@ -142,7 +142,10 @@ const GlobalStyle = createGlobalStyle`
 
   .keep-50w { max-width: 50vw; }
 
-  .top-clearance-xl { padding-top: 8.5vh; }
+  .top-clearance-xl { 
+    padding-top: 5.5vh; 
+    padding-bottom: 5.5vh; 
+  }
   .top-clearance { padding-top: 3vh; }
   .bottom-clearance { padding-bottom: 5vh; }
   

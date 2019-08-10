@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 const Wrapper = styled.div`
-  padding: 0 0 0 0;
-  background: chocolate;
+  padding: 10px 10px 10px 10px;
+  background: white;
   text-align: center;
   position: relative;
 `;

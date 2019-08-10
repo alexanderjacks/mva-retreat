@@ -44,7 +44,7 @@ Main Airport: (SEATAC)
 
 ### Directions<span id="directions"></span>
 
-<a href="https://www.google.com/maps/dir/Seattle-Tacoma+International+Airport+(SEA),+17801+International+Blvd,+Seattle,+WA+98158/SpringHill+Suites+by+Marriott+Seattle+Downtown%2FSouth+Lake+Union,+1800+Yale+Ave,+Seattle,+WA+98101/data=!4m8!4m7!1m2!1m1!1s0x5490435542eafefd:0x99d3d9c4c7dc37b7!1m2!1m1!1s0x549015345b238c41:0x6d4697f1f8a61ffb!3e0?sa=X&ved=2ahUKEwiak9bm_u_jAhVqi1QKHYiWDZMQ-A8wAHoECAoQDQ" target="_blank">From Seattle-Tacoma International Airport via CAR or BUS</a>
+<a href="https://www.google.com/maps/dir/Seattle-Tacoma+International+Airport+(SEA),+17801+International+Blvd,+Seattle,+WA+98158/SpringHill+Suites+by+Marriott+Seattle+Downtown%2FSouth+Lake+Union,+1800+Yale+Ave,+Seattle,+WA+98101/data=!4m8!4m7!1m2!1m1!1s0x5490435542eafefd:0x99d3d9c4c7dc37b7!1m2!1m1!1s0x549015345b238c41:0x6d4697f1f8a61ffb!3e0?sa=X&ved=2ahUKEwiak9bm_u_jAhVqi1QKHYiWDZMQ-A8wAHoECAoQDQ" target="_blank" rel="noopener noreferrer">From Seattle-Tacoma International Airport via CAR or BUS</a>
 
 [Directions using the LINK LIGHT RAIL](https://www.soundtransit.org/tripplanner/to/location:2590c3d019d4d1666a371bcf92e45ee8/from/location:fbf29a6a1c5c9d2c7d9c640e2af19d4b/after/1565155667649/travel-by/bus,train/route-option/fastest%20trip/max-walk/1609) - All the directions you need can be found here.
 The Link takes about an hour from the airport to the hotel. You will arrive about a half mile from the hotel. The light rail comes every 15 minutes. 
