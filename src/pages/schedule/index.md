@@ -47,27 +47,27 @@ Start time - 9:00 a.m.
 
 
 
-### <span class="red-text">7:30 - 8:45 a.m.</span> 		Mind-Body Balance Session
+### <span class="red-text">7:30 - 8:45 a.m. 		Mind-Body Balance Session</span>
 
 **Title: Daybreak Yoga**
 
 Facilitator: Alyssa Pizarro
 
-### <span class="red-text">9:00 - 10:10 a.m.</span> 		Education Session
+### <span class="red-text">9:00 - 10:10 a.m. 		Education Session</span>
 				
 **Title: Challenges of Collaboration as Minority Leaders**
 
 Facilitator: Uma Mishra-Newbery
 
-### <span class="red-text">10:25 - 11:35 a.m.</span> 		Education Session
+### <span class="red-text">10:25 - 11:35 a.m. 		Education Session</span>
 				
 **Title: Inspiring Action in Others**
 
 Facilitator: Bill Kirst
 
-### <span class="red-text">11:45 a.m. - 1:00 p.m.</span>		Lunch
+### <span class="red-text">11:45 a.m. - 1:00 p.m.		Lunch</span>
 
-### <span class="red-text">1:00 - 2:10 p.m.</span>		Skills Session
+### <span class="red-text">1:00 - 2:10 p.m.		Skills Session</span>
 
 **Breakout Session Title: Building Your Professional Brand**
 
@@ -77,7 +77,7 @@ Facilitator: Bill Kirst
 
 Facilitator: Luz Helena Thompson
 
-### <span class="red-text">2:20 - 3:30 p.m.</span>		Skills Session
+### <span class="red-text">2:20 - 3:30 p.m.		Skills Session</span>
 
 **Breakout Session Title: Budget Development and Fundraising**
 
@@ -87,7 +87,7 @@ Facilitator: Robert White
 
 Facilitator: Michael Lewis and Eric Ballentine
 
-### <span class="red-text">3:45 - 5:00 p.m.</span>		Mind-Body Balance Session (Optional)
+### <span class="red-text">3:45 - 5:00 p.m.		Mind-Body Balance Session (Optional)</span>
 
 **Title: Outdoor Adventure - Indoor Climbing**
 
@@ -95,7 +95,7 @@ Facilitator: Outdoors for All
 
 Shake off a day of sitting with an afternoon indoor climbing at Vertical World. 
 
-### <span class="red-text">7:00 - 9:30 p.m.</span>		ELR Banquet Dinner and Sponsors Networking Event
+### <span class="red-text">7:00 - 9:30 p.m.		ELR Banquet Dinner and Sponsors Networking Event</span>
 
 **Fireside: Resilience in the Face of Extreme Adversity**
 
