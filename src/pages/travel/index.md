@@ -75,7 +75,7 @@ Uber and Lyft are easily accessible throughout the city but can become expensive
 
 ### Where will I be staying and with whom?
 
-If you are in a room at SpringHill suites you will be receiving your room number via email no later than one week before the retreat. 
+If you are staying in MVA sponsored lodging, you will be staying in a room at SpringHill suites. You will receive an email with instructions for checking in and other travel related items in advance of the retreat start day. 
 
 ### What should I do if I have dietary needs/restrictions?
 

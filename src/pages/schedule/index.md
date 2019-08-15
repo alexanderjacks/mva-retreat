@@ -15,7 +15,7 @@ Start time - 1:00 p.m.
 
 Facilitator: Lindsay Church
 
-### <span class="red-text">1:30 - 2:40 p.m.			Session 1</span>
+### <span class="red-text">1:30 - 2:45 p.m.			Session 1</span>
 
 **Title: Strength in Leading from Vulnerability**
 
@@ -33,7 +33,7 @@ Facilitator: Eric Ballentine
 
 Facilitator: Outdoors for All
 
-Get out on the water at Discovery Park with our partners Outdoors for All. Participants can choose to kayak, SUP, or just hang out in the outdoors after a day of travel and sitting. 
+Get out on the water at Discovery Park with our partners Outdoors for All. Participants can choose to kayak, SUP, or just hang out in the outdoors after a day of travel and sitting. All gear provided just bring clothes you don’t mind getting in the water.
 
 ### <span class="red-text">7:00 - 9:00 p.m.			Dinner/Social Event</span>
 
@@ -53,39 +53,37 @@ Start time - 9:00 a.m.
 
 Facilitator: Alyssa Pizarro
 
-### <span class="red-text">9:00 - 10:10 a.m. 		Education Session</span>
+### <span class="red-text">9:00 - 10:10 a.m. 		Session 1</span>
 				
 **Title: Challenges of Collaboration as Minority Leaders**
 
 Facilitator: Uma Mishra-Newbery
 
-### <span class="red-text">10:25 - 11:35 a.m. 		Education Session</span>
+### <span class="red-text">10:25 a.m. - 11:35 a.m. 		Session 2</span>
 				
 **Title: Inspiring Action in Others**
 
 Facilitator: Bill Kirst
 
-### <span class="red-text">11:45 a.m. - 1:00 p.m.		Lunch</span>
+### <span class="red-text">11:45 a.m. - 1:00 p.m.		Lunch (Marination)</span>
 
-### <span class="red-text">1:00 - 2:10 p.m.		Skills Session</span>
+### <span class="red-text">1:00 - 2:10 p.m.		Session 3</span>
 
 **Breakout Session Title: Building Your Professional Brand**
 
 Facilitator: Bill Kirst 
 
-**Breakout Session Title: Using Art to Facilitate Connection**
+**Breakout Session Title: The Art of Connecting**
 
 Facilitator: Luz Helena Thompson
 
-### <span class="red-text">2:20 - 3:30 p.m.		Skills Session</span>
+Description: Join Professional Artist and Marine Corps Veteran, Luz Helena Thompson in a discussion regarding how we connect to others through artwork. Hear her story of how she came to be a glass mosaic artist and muralists. Discover what connected her with the veteran community as an artist and how her passion for sharing artwork with others has impacted lives around the country. Discuss why art matters in the first place, especially as a therapeutic modality for veterans. Explore art and how it can impact you in and around your community. Finally, discuss various forms of artistic expression and how to make a connection within yourself and others.
 
-**Breakout Session Title: Budget Development and Fundraising**
+### <span class="red-text">2:20 - 3:30 p.m.		Session 4</span>
 
-Facilitator: Robert White
+**Title: Leading and Developing High Performing Teams**
 
-**Breakout Session Title: Public Speaking and Presentation Skills**
-
-Facilitator: Michael Lewis and Eric Ballentine
+Facilitator: T-Mobile Panel
 
 ### <span class="red-text">3:45 - 5:00 p.m.		Mind-Body Balance Session (Optional)</span>
 
@@ -93,7 +91,7 @@ Facilitator: Michael Lewis and Eric Ballentine
 
 Facilitator: Outdoors for All
 
-Shake off a day of sitting with an afternoon indoor climbing at Vertical World. 
+Description: Shake off a day of sitting with an afternoon indoor climbing at Vertical World. All gear provided, participants should wear comfortable clothes and bring socks for shoe rental. 
 
 ### <span class="red-text">7:00 - 9:30 p.m.		ELR Banquet Dinner and Sponsors Networking Event</span>
 
@@ -107,36 +105,41 @@ Facilitator: Fireside Chat
 
 Start time - 9:00 a.m.
 
-### <span class="red-text">7:30 - 8:45 a.m. 		Mind-Body Balance Sesion</span>
+Location - Daybreak Star Indian Cultural Center
+
+### <span class="red-text">7:30 - 8:45 a.m. 		Mind-Body Balance Session (Optional) </span>
 				
 **Title: Daybreak Yoga/Mindfulness**
 
 Facilitator: Alyssa Pizarro
 
+Description: Start your day off right with Daybreak Yoga with Alyssa at the Daybreak Star Indian Cultural Center. Mats will be provided if participants do not have their own.
+
 ### <span class="red-text">9:00 - 10:10 a.m. 		Session 1</span>
 				
-**Title: Why Race Matters**
+**Title: Why Equity Matters**
 
 Facilitator: Robert White
 
 ### <span class="red-text">10:25 - 11:35 a.m. 		Education Session</span>
 				
-**Title: Leading and Developing High Performing Teams**
+**Breakout Session Title: Mountain’s Are for Climbing - A Path to Recovery from Military Sexual Trauma**
 
-Facilitator: T-Mobile Panel
+Facilitator(s): Trina McDonald and Luz Helena Thompson
+
+**Breakout Session Title: Public Speaking and Presentation Skills**
+
+Facilitator: Michael Lewis
 
 ### <span class="red-text">11:45 - 1:00 p.m. 		Lunch </span>
 
 
 ### <span class="red-text">1:00 - 2:10 p.m.		Session 2</span>
 
-**Breakout Session Title: Mountains Are for Climbing - A Path to Recovery from Military Sexual Trauma**
+**Breakout Session Title: Budget Development and Fundraising**
 
-Facilitator(s): Trina McDonald and Luz Helena Thompson
+Facilitator: Robert White
 
-**Breakout Session Title:**
-
-Facilitator: 
 
 ### <span class="red-text">2:20 - 3:30 p.m.		Session 3</span>
 
