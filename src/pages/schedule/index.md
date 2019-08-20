@@ -8,9 +8,12 @@ featuredImage: './schedule.png'
 
 Start time - 1:00 p.m.
 
+<a href="https://www.google.com/maps/dir/Amtrak+Station+-+SEA,+South+Jackson+Street,+Seattle,+WA/1800+Yale+Ave,+Seattle,+WA+98101/@47.6083981,-122.3413964,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54906abb4517f8cb:0xd72e17e31ed85966!2m2!1d-122.3299086!2d47.5983889!1m5!1m1!1s0x549015345c6da755:0x6b743cae8489cdad!2m2!1d-122.3298692!2d47.6178737"
+target="_blank" rel="noopener noreferrer">
 Location -  SpringHill Suites<br/> 
 1800 Yale Ave. N<br/>
 Seattle, WA 98101
+</a>
 
 
 
@@ -46,7 +49,10 @@ Get out on the water at Discovery Park with our partners Outdoors for All. Parti
 
 ### <span class="navy-text">7:00 - 9:00 p.m.			Dinner/Social Event</span>
 
+<a href="https://www.google.com/maps/place/Flatstick+Pub+-+South+Lake+Union/@47.6252649,-122.3460742,15z/data=!4m18!1m12!4m11!1m3!2m2!1d-122.3405811!2d47.6254673!1m6!1m2!1s0x549015ed925e4e07:0xc6a039bcfd91d526!2sFlatstick+Pub+-+South+Lake+Union,+Westlake+Avenue+North,+Seattle,+WA!2m2!1d-122.338605!2d47.625185!3m4!1s0x549015ed925e4e07:0xc6a039bcfd91d526!8m2!3d47.625185!4d-122.338605"
+target="_blank" rel="noopener noreferrer">
 Location: Flatstick Pub - South Lake Union
+</a>
 
 ***
 	
@@ -54,7 +60,8 @@ Location: Flatstick Pub - South Lake Union
 
 Start time - 9:00 a.m.
 
-Location - SpringHill Suites
+<a href="https://www.google.com/maps/dir//1800+Yale+Ave,+Seattle,+WA+98101/@47.6178737,-122.3320579,17z/data=!4m17!1m7!3m6!1s0x549015345c6da755:0x6b743cae8489cdad!2s1800+Yale+Ave,+Seattle,+WA+98101!3b1!8m2!3d47.6178737!4d-122.3298692!4m8!1m0!1m5!1m1!1s0x549015345c6da755:0x6b743cae8489cdad!2m2!1d-122.3298692!2d47.6178737!3e2" target="_blank" rel="noopener noreferrer">Location - SpringHill Suites
+</a>
 
 ### <span class="navy-text">7:30 - 8:45 a.m. 		Mind-Body Balance Session</span>
 
@@ -125,8 +132,8 @@ Facilitator: Fireside Chat
 
 Start time - 9:00 a.m.
 
-Location - SpringHill Suites
-
+<a href="https://www.google.com/maps/dir//1800+Yale+Ave,+Seattle,+WA+98101/@47.6178737,-122.3320579,17z/data=!4m17!1m7!3m6!1s0x549015345c6da755:0x6b743cae8489cdad!2s1800+Yale+Ave,+Seattle,+WA+98101!3b1!8m2!3d47.6178737!4d-122.3298692!4m8!1m0!1m5!1m1!1s0x549015345c6da755:0x6b743cae8489cdad!2m2!1d-122.3298692!2d47.6178737!3e2" target="_blank" rel="noopener noreferrer">Location - SpringHill Suites
+</a>
 ### <span class="navy-text">7:30 - 8:30 a.m. 		Mind-Body Balance Session (Optional) </span>
 				
 **Title: Daybreak Yoga/Mindfulness**
